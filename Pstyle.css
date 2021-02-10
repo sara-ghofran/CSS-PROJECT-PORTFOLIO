@@ -1,0 +1,38 @@
+body {
+    padding: 0px 0px; 
+    background-color: rgb(34, 33, 33);
+} 
+table, th, td {
+    border: 5px solid rgba(8, 8, 8, 0.897);
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 5px ;
+  }
+  th {
+    text-align: left;
+  }
+  .wid {
+    width:350px ; 
+  }
+  .wid0 {
+    width: 400px; 
+  }
+
+  #header {
+    background-color: rgb(34, 33, 33);
+    z-index: 1;
+    position: fixed;
+    width: 100% ;
+    top: -5px ;
+  }
+  .gold {
+    height: 10px;
+    background-image: url(https://fotomelia.com/wp-content/uploads/edd/2015/05/moteur-engrenage-m%C3%A9canique-m%C3%A9canisme-images-photos-gratuites-libres-de-droits-1560x1103.jpg);
+    background-position: center; 
+    background-size: cover;
+  }
+  .navitem {
+    color: rgba(243, 205, 35, 0.897); 
+    font-size: 30px;
+  }
